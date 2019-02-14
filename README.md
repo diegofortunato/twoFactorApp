@@ -1,7 +1,11 @@
+Two Factor APP
+
 Aplicação desenvolvida baseada em TOTP - Time-Based One-Time Password Algorithm Library.Compatível com o Aplicativo Google Authenticator.
 IETF: https://tools.ietf.org/html/rfc6238
 
 APP disponivel em (Desenvolvida com Angular 6): ........
+
+Documentacao da API disponivel em: https://two-factor-app.herokuapp.com/swagger-ui.html#/
 
 API desenvolvida com Java 8 e Spring Boot. 
 
